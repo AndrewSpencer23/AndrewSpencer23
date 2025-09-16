@@ -1,41 +1,47 @@
 💻 Experience & Projects
 
-I have hands-on experience across multiple layers of embedded systems and digital design, including FPGA development, inline assembly, microcontrollers, and C++ software projects. My experience spans both hardware-level design and higher-level programming, giving me a strong foundation in digital logic, embedded programming, and system integration.
+Hands-on experience in FPGA design, inline assembly, microcontrollers, and C++ software. Projects span hardware-level design to higher-level programming, with a solid foundation in digital logic, embedded systems, and software engineering.
 
 🔹 FPGA Development (Verilog – DE10 Board)
 
-Designed and implemented digital logic systems using Verilog HDL on the Intel DE10 FPGA.
+Designed logic systems: reaction timers, RNGs, LED scrollers, display drivers.
 
-Built projects such as reaction timers, random number generators, LED scrollers, and display drivers.
+Built modular components: debouncers, clock dividers, 7-segment decoders.
 
-Created modular components like debouncers, clock dividers, and 7-segment decoders.
-
-Programmed and tested FPGA designs using Quartus Prime with .sof bitstreams.
+Programmed/tested designs in Quartus Prime (.sof bitstreams).
 
 🔹 Arduino Inline Assembly (ATmega328p)
 
-Programmed the Arduino Uno at the register and assembly level.
+Programmed at register level with AVR inline assembly.
 
-Implemented low-level instructions for shifts, rotates, and flag manipulation.
+Implemented shifts, rotates, and flag manipulation.
 
-Integrated inline assembly with C++ to directly control hardware behavior.
-
-Gained experience with the AVR instruction set and the status register (SREG).
+Mixed C++ with assembly for direct hardware control.
 
 🔹 RP2040 Embedded C (Raspberry Pi Pico)
 
-Developed embedded programs in C for the Raspberry Pi Pico (RP2040).
+Wrote embedded C for GPIO, timing, and peripherals.
 
-Worked with GPIO, timing, and peripheral control at the hardware level.
-
-Applied embedded C coding practices for efficiency and hardware interaction.
+Focused on efficient, low-level microcontroller coding.
 
 🔹 C++ Coursework & Projects
 
-Completed CS1 and CS2 coursework in C++ at CU Boulder.
+Completed CS1/CS2 at CMU (data structures, algorithms, OOP).
 
-Implemented data structures, algorithms, and object-oriented designs.
+Projects included recursion, memory management, file I/O.
 
-Built projects covering recursion, dynamic memory management, file I/O, and more.
+Emphasis on modularity, testing, and documentation.
 
-Strengthened software engineering practices including modularity, testing, and documentation.
+📂 Repositories
+
+Digital-Logic-Verilog
+ – FPGA design projects (Verilog, DE10, Quartus).
+
+Programming-Digital-Systems-InLineAssembly
+ – Arduino inline assembly.
+
+CS1-AndrewSpencer-Cplusplus
+ – Intro C++ coursework.
+
+CS2-AndrewSpencer-Cplusplus
+ – Data structures & algorithms in C++.
