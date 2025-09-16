@@ -1,6 +1,6 @@
 💻 Experience & Projects
 
-I have hands-on experience across multiple layers of embedded systems and digital design, including FPGA development, inline assembly, microcontrollers, and C++ software projects. My work spans both hardware-level design and higher-level programming, giving me a strong foundation in digital logic, embedded programming, and system integration.
+I have hands-on experience across multiple layers of embedded systems and digital design, including FPGA development, inline assembly, microcontrollers, and C++ software projects. My experience spans both hardware-level design and higher-level programming, giving me a strong foundation in digital logic, embedded programming, and system integration.
 
 🔹 FPGA Development (Verilog – DE10 Board)
 
