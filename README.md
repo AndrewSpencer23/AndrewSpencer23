@@ -4,33 +4,33 @@ Hands-on experience in FPGA design, inline assembly, microcontrollers, and C++ s
 
 🔹 FPGA Development (Verilog – DE10 Board)
 
-Designed logic systems: reaction timers, RNGs, LED scrollers, display drivers.
+  Designed logic systems: reaction timers, RNGs, LED scrollers, display drivers.
 
-Built modular components: debouncers, clock dividers, 7-segment decoders.
+  Built modular components: debouncers, clock dividers, 7-segment decoders.
 
-Programmed/tested designs in Quartus Prime (.sof bitstreams).
+  Programmed/tested designs in Quartus Prime (.sof bitstreams).
 
 🔹 Arduino Inline Assembly (ATmega328p)
 
-Programmed at register level with AVR inline assembly.
+  Programmed at register level with AVR inline assembly.
 
-Implemented shifts, rotates, and flag manipulation.
+  Implemented shifts, rotates, and flag manipulation.
 
-Mixed C++ with assembly for direct hardware control.
+  Mixed C++ with assembly for direct hardware control.
 
 🔹 RP2040 Embedded C (Raspberry Pi Pico)
 
-Wrote embedded C for GPIO, timing, and peripherals.
+  Wrote embedded C for GPIO, timing, and peripherals.
 
-Focused on efficient, low-level microcontroller coding.
+  Focused on efficient, low-level microcontroller coding.
 
 🔹 C++ Coursework & Projects
 
-Completed CS1/CS2 at CMU (data structures, algorithms, OOP).
+  Completed CS1/CS2 at CMU (data structures, algorithms, OOP).
 
-Projects included recursion, memory management, file I/O.
+  Projects included recursion, memory management, file I/O.
 
-Emphasis on modularity, testing, and documentation.
+  Emphasis on modularity, testing, and documentation.
 
 📂 Repositories
 
