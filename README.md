@@ -31,17 +31,3 @@ Hands-on experience in FPGA design, inline assembly, microcontrollers, and C++ s
   Projects included recursion, memory management, file I/O.
 
   Emphasis on modularity, testing, and documentation.
-
-📂 Repositories
-
-Digital-Logic-Verilog
- – FPGA design projects (Verilog, DE10, Quartus).
-
-Programming-Digital-Systems-InLineAssembly
- – Arduino inline assembly.
-
-CS1-AndrewSpencer-Cplusplus
- – Intro C++ coursework.
-
-CS2-AndrewSpencer-Cplusplus
- – Data structures & algorithms in C++.
